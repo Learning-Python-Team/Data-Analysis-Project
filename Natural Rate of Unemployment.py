@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#TO DENIS - It would be great to have detailed code explaining each step, for us beginners!
+
 # In[9]:
 
 
