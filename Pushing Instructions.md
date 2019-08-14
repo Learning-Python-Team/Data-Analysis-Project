@@ -1,6 +1,6 @@
 > This is just a push practice
 
-##Pushing a file on a repository:
+## Pushing a file on a repository:
 
 * Create a folder in desktop with the name ```Reddit Project```
 * Open command prompt and change the directory to this folder ```cd Desktop/Reddit\ Project```
